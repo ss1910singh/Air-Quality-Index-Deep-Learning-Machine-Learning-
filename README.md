@@ -1,6 +1,7 @@
 
 
-# AQI Prediction using Machine Learning
+# AQI Prediction using Deep Learning & Machine Learning
+
 
 ## 1. Introduction
 
@@ -43,8 +44,8 @@ The AQI Prediction system is divided into the following components:
 ## 4. File Structure
 
 ```
-AlgoMinds/
-├── DL_Models/                    # Deep Learning Model Files
+AQI Prediction using Deep Learning & Machine Learning/
+├── src/                    # Deep Learning Model Files
 │   ├── aqi_predictor_nn_final.ipynb
 │   ├── images/
 │   ├── main.py
