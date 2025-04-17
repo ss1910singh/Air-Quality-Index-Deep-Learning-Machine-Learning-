@@ -49,7 +49,6 @@ AQI Prediction using Deep Learning & Machine Learning/
 │   ├── aqi_predictor_nn_final.ipynb
 │   ├── images/
 │   ├── main.py
-│   └── models/
 ├── data/                          # Data Files
 │   ├── city_aqi_day.csv           # Raw daily AQI data
 │   ├── city_hour.csv.zip          # Raw hourly AQI data
