@@ -200,6 +200,8 @@ jupyter notebook DL_Models/aqi_predictor_nn_final.ipynb
 ### 11.2 Running the Streamlit Frontend
 To start the real-time prediction interface:
 ```bash
+streamlit run DL_model/main.py
+streamlit run exp/main.py
 streamlit run frontend/main.py
 ```
 This will launch the application in your browser.
