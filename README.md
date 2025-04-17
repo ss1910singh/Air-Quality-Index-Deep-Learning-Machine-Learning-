@@ -59,7 +59,6 @@ AQI Prediction using Deep Learning & Machine Learning/
 │   ├── aqi_predictor_exp.ipynb    # Experimental model code
 │   ├── images/
 │   ├── main.py
-│   └── objects/
 ├── frontend/                      # Streamlit Frontend for Real-Time Predictions
 │   └── main.py
 ├── .gitignore                     # Ignore unnecessary files
