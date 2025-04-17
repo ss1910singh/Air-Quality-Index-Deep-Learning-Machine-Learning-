@@ -4,6 +4,7 @@ scikit-learn
 tensorflow
 xgboost
 matplotlib
+plotly
 seaborn
 streamlit
 scipy
