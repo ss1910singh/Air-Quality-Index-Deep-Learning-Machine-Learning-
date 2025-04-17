@@ -58,8 +58,6 @@ AQI Prediction using Deep Learning & Machine Learning/
 │   ├── aqi_predictor_exp.ipynb    # Experimental model code
 │   ├── images/
 │   ├── main.py
-├── frontend/                      # Streamlit Frontend for Real-Time Predictions
-│   └── main.py
 ├── .gitignore                     # Ignore unnecessary files
 ├── README.md                      # Project Documentation
 └── requirements.txt               # Dependencies for the project
@@ -165,7 +163,7 @@ The `exp/` directory contains files used for experimentation with different mode
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/ss1910singh/Air-Quality-Index-Deep-Learning-Machine-Learning-.git
-   cd Air-Quality-Index-Deep-Learning-Machine-Learning
+   cd ./Air-Quality-Index-Deep-Learning-Machine-Learning/
    ```
 
 2. **Create a Virtual Environment**
